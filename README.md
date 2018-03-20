@@ -1,0 +1,2 @@
+# clipss
+Clips directory
